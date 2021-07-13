@@ -1,0 +1,44 @@
+.App{
+  text-align: center;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  flex-direction: column;
+  min-height: 100vh;
+  color: aliceblue;
+  background-color: #333956;
+
+}
+
+button{
+  color: #ffffff;
+  padding: 5px 24px;
+  margin: 10px;
+  font-size: 20px;
+  text-transform: uppercase;
+  width: 300px;
+  border-radius: 14px;
+  -webkit-border-radius: 14px;
+  -moz-border-radius: 14px;
+  -ms-border-radius: 14px;
+  -o-border-radius: 14px;
+  background-color: #0077bf;
+}
+
+p{
+
+  opacity: 0.4;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
